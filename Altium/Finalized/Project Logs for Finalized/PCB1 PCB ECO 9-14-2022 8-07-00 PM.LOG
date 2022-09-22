@@ -1,0 +1,17 @@
+Added Component: Designator=U?(ESP-07S)
+Add component (AddParameter): Name = "Category"; Value = "RF Receivers, Transceivers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2575856.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2575856.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://www.rfsolutions.co.uk/downloads/1513856197DS-ESP-12S.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.rfsolutions.co.uk/downloads/1513856197DS-ESP-12S.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "54Mbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.484GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "I2C,SPI,UART"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP-12S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sensitivity"; Value = "-90dBm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ESP-12SRF-ND"; VariantName = "[No Variations]"
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

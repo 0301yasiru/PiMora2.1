@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=IO0_ESP07 Pin=R21-1
+Added Pin To Net: NetName=IO0_ESP07 Pin=U3-12
+Added Net: Name=IO0_ESP07

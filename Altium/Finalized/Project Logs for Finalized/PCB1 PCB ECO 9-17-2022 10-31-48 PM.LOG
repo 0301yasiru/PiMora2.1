@@ -1,0 +1,12 @@
+Added Component: Designator=B1(Buzzer_HNB09A03)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Jiangsu Huaneng Elec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "HNB09A03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "C96102"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-1
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=U5-4
+Added Net: Name=NetB1_2
+Added Member To Class: ClassName=Sheet1 Member=Component B1 HNB09A03
+Added Room: Name=Sheet1

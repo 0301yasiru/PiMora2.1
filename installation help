@@ -1,0 +1,3 @@
+# if netfilterque did not install
+sudo apt install libnfnetlink-dev
+sudo apt install libnetfilter-queue-dev
